@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Saugat
+- 🎓 I studied Cyber Security 
 - 🏢 I’m a Linux System & Network Administration
 - 👀 I’m interested in learning more about Full Stack development
 - 🌱 I’m currently learning Python, HTML, CSS
